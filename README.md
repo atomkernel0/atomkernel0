@@ -4,11 +4,11 @@
 
 ## 💻 Technologies I Use
 
-[![My Skills](https://skillicons.dev/icons?i=html,scss,nodejs,ts,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,scss,angular,nodejs,ts,mongodb)](https://skillicons.dev)
 
 ## 🌱 I'm Currently Learning
 
-[![Learning](https://skillicons.dev/icons?i=angular,cpp)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
 ## 🛠 Tools I Use
 
