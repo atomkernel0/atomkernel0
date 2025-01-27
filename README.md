@@ -1,6 +1,6 @@
 # Hello, I'm atomkern! 👋🌟
 
-🇱🇺 Passionate about programming, I am constantly on the lookout for new technologies to explore and master.
+Passionate about programming, I am constantly on the lookout for new technologies to explore and master.
 
 ## 💻 Technologies I Use
 
