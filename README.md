@@ -17,8 +17,8 @@ Passionate about programming, I am constantly on the lookout for new technologie
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atom1488&theme=catppuccin_mocha&hide_border=true&layout=compact&count_private=true" alt="Most Used Languages" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=atom1488&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="GitHub Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomkernel0&theme=catppuccin_mocha&hide_border=true&layout=compact&count_private=true" alt="Most Used Languages" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atomkernel0&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="GitHub Stats" height="200" />
 </div>
 
 ## 🚀 Connect with Me
