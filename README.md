@@ -8,11 +8,11 @@ Passionate about programming, I am constantly on the lookout for new technologie
 
 ## 🌱 I'm Currently Learning
 
-[![Learning](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=c,rust)](https://skillicons.dev)
 
 ## 🛠 Tools I Use
 
-[![Tools](https://skillicons.dev/icons?i=linux,vscode,vim)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=linux,bash,vscode,bun,nginx,git)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
@@ -23,8 +23,12 @@ Passionate about programming, I am constantly on the lookout for new technologie
 
 ## 🚀 Connect with Me
 
-Feel free to connect with me on Discord:
+<p align="center">
+  <a href="https://discordapp.com/users/nukleon88">
+    <img src="https://img.shields.io/badge/-nukleon88-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-nukleon88-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord: nukleon88"/>
+  <em>Always open to new opportunities!</em> 🚀
 </p>
